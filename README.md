@@ -3,7 +3,7 @@ Cat detector with hidden layers
 
 ## Cost vs iteration:
 
-![Alt text](/images/cost vs iteration.png?raw=true "Optional Title")
+![Alt text](/images/cost_vs_iteration.png?raw=true "Cost vs iteration")
 
 ## How to Run :
 
